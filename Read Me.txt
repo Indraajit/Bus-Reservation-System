@@ -1,0 +1,17 @@
+Steps
+
+1. Clone this repository
+
+2. Install Apache Netbeans
+
+3. Install Xampp
+
+4. Localhost port number = 3306
+
+5. Database (any name)
+
+6. Run the Project
+
+
+NOTE : You can play this project. If any modified in project make sure you add it
+to the Repository :)
